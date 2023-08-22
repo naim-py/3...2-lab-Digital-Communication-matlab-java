@@ -1,0 +1,12 @@
+split phase manchester
+0--negative to positive
+1--positive to negative
+
+Amplitude shift keying 
+amplituder respect a data ke represent kra hoy
+jekhane 1 thakbe sekhanei amplitude thakbe 
+otherwise kon amplide thakbe na
+
+Frequency shift keying
+1 jonne frequency ta besi thake f1=fc + del f
+0 jonne frequency ta kom thake f2=fc - del f
